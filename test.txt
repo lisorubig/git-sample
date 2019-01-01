@@ -1,2 +1,4 @@
 Hello Git!
+
 It's commit
+Three line
