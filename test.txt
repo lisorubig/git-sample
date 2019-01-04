@@ -1,4 +1,6 @@
+
 Hello Git! Hello!
+branch
 
 It's commit
 <<<<<<< HEAD
